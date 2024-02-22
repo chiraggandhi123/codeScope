@@ -1,0 +1,11 @@
+.ele { 
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    visibility:hidden ;
+}
+.ele2 { 
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
