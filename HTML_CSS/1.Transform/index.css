@@ -1,0 +1,8 @@
+.box{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    transform: scale(2);
+    transform: rotateZ(80deg);
+
+}

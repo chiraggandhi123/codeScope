@@ -1,8 +1,8 @@
-//IIFE() 
-
-(function sayHello(){
-    let a = '10';
-    console.log('hello')
+(function greet(){
+    let x = '123'
+    console.log(x)
 })();
 
-// privacy ->
+console.log(x)
+
+//global context -> function context -> x, console.log(x)
